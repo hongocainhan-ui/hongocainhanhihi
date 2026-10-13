@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Be Tham\\Desktop\\NAM BA\\PTPHANMENHDT\\0024417258_HO NGOC AI NHAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E7DC5F-4EAC-40D5-B76E-1E24174A8048}|0024417258_HO NGOC AI NHAN\\0024417258_HO NGOC AI NHAN.csproj|c:\\users\\be tham\\desktop\\nam ba\\ptphanmenhdt\\0024417258_ho ngoc ai nhan\\0024417258_ho ngoc ai nhan\\phuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E7DC5F-4EAC-40D5-B76E-1E24174A8048}|0024417258_HO NGOC AI NHAN\\0024417258_HO NGOC AI NHAN.csproj|solutionrelative:0024417258_ho ngoc ai nhan\\phuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E7DC5F-4EAC-40D5-B76E-1E24174A8048}|0024417258_HO NGOC AI NHAN\\0024417258_HO NGOC AI NHAN.csproj|c:\\users\\be tham\\desktop\\nam ba\\ptphanmenhdt\\0024417258_ho ngoc ai nhan\\0024417258_ho ngoc ai nhan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E7DC5F-4EAC-40D5-B76E-1E24174A8048}|0024417258_HO NGOC AI NHAN\\0024417258_HO NGOC AI NHAN.csproj|solutionrelative:0024417258_ho ngoc ai nhan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PHUONGTIEN.cs",
+              "DocumentMoniker": "C:\\Users\\Be Tham\\Desktop\\NAM BA\\PTPHANMENHDT\\0024417258_HO NGOC AI NHAN\\0024417258_HO NGOC AI NHAN\\PHUONGTIEN.cs",
+              "RelativeDocumentMoniker": "0024417258_HO NGOC AI NHAN\\PHUONGTIEN.cs",
+              "ToolTip": "C:\\Users\\Be Tham\\Desktop\\NAM BA\\PTPHANMENHDT\\0024417258_HO NGOC AI NHAN\\0024417258_HO NGOC AI NHAN\\PHUONGTIEN.cs",
+              "RelativeToolTip": "0024417258_HO NGOC AI NHAN\\PHUONGTIEN.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv6wBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:23:11.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Be Tham\\Desktop\\NAM BA\\PTPHANMENHDT\\0024417258_HO NGOC AI NHAN\\0024417258_HO NGOC AI NHAN\\Program.cs",
+              "RelativeDocumentMoniker": "0024417258_HO NGOC AI NHAN\\Program.cs",
+              "ToolTip": "C:\\Users\\Be Tham\\Desktop\\NAM BA\\PTPHANMENHDT\\0024417258_HO NGOC AI NHAN\\0024417258_HO NGOC AI NHAN\\Program.cs",
+              "RelativeToolTip": "0024417258_HO NGOC AI NHAN\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:19:45.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
